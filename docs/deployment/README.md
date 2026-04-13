@@ -33,6 +33,11 @@ This directory contains deployment guides for self-hosting InsForge on various p
   - Domain and SSL configuration
   - Production best practices
 
+- **[Compose Stack](./deploy-with-compose.md)** - Deploy InsForge with a reusable compose stack
+  - Creates PostgreSQL and required services together
+  - Builds the app from your Git branch
+  - Works with Docker Compose, EasyPanel, and similar platforms
+
 ### Coming Soon
 
 - **Digital Ocean** - Droplet deployment guide
